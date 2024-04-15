@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "lodash-library",
+  "version": "1.0.0",
+  "description": "A repository for practicing lodash methods.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Stephen",
+  "license": "ISC"
+}
