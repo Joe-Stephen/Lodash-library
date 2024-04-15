@@ -9,9 +9,9 @@ const users = [
 ];
 
 //drop last 1 user with their active value===falsy;
-const result=lodash.dropRightWhile(users, (user)=>!user.active);
-console.log(result)
+const result = lodash.dropRightWhile(users, (user) => !user.active);
+console.log(result);
 
 //drop last 2 users with their active value===falsy;
-const result2=lodash.dropRightWhile(users, (user)=>!user.active);
-console.log(result2)
+const result2 = lodash.dropRightWhile(users, (user) => !user.active);
+console.log(result2);
