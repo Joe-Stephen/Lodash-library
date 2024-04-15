@@ -5,7 +5,7 @@ import lodash from "lodash";
 
 const array = [2, 3, 0, 5, 6, 7, 7, 18, 4];
 
-let iter_greater = (value) => {
+const iter_greater = (value) => {
     if (value>5){return value}
 //   return value > 5 ? value : undefined;
 };
