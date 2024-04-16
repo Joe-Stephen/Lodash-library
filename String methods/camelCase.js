@@ -1,5 +1,7 @@
 import _ from "lodash";
 
+// Converts string to camel case.
+
 _.camelCase("Foo Bar");
 // => 'fooBar'
 
