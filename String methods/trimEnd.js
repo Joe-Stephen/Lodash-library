@@ -1,5 +1,5 @@
-_.trimEnd('  abc  ');
+_.trimEnd("  abc  ");
 // => '  abc'
- 
-_.trimEnd('-_-abc-_-', '_-');
+
+_.trimEnd("-_-abc-_-", "_-");
 // => '-_-abc'
